@@ -2,7 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
+	abc abc@abc.com
     <name> -- <role> -- <twitter>
 
 # THANKS
