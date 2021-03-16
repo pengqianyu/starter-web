@@ -11,5 +11,6 @@ Sample website with plenty of files for demos
 ## Deploy
 
 ### Copyright
+all rights reserved.
 
 ## How to contribute
